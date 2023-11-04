@@ -34,6 +34,14 @@ Jakob Hofer
 
 ---
 
+<style scoped>
+  section::after {
+    content: 'Pablo Picasso - The Picador | ' attr(data-marpit-pagination);
+    color: var(--dracula-foreground);
+  }
+</style>
+
+
 ### Frühe Jahre
 - geboren in Málaga (Spanien)
 - Diego, José, Francisco de Paula, Juan Nepomuceno, María de los Remedios und Cipriano de la Santísima Trinidad
