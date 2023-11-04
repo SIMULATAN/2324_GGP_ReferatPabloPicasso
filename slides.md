@@ -20,7 +20,7 @@ transition: slide
 
 # Pablo Picasso
 Jakob Hofer
-![bg right](https://upload.wikimedia.org/wikipedia/commons/9/98/Pablo_picasso_1.jpg)
+![bg right:60% 80%](res/pablo.png)
 
 ---
 
